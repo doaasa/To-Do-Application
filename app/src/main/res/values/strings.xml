@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="enter_new_todo">enter new todo</string>
+    <string name="delete">Delete</string>
+
+    <string name="data_inside_database_is_here">data inside database is here</string>
+</resources>
